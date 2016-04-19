@@ -1,9 +1,3 @@
-[init]
-  templatedir = ~/.git_template
-[push]
-  default = current
-[color]
-  ui = auto
 [alias]
   aa = add --all
   ap = add --patch
